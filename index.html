@@ -1,0 +1,114 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>JS/JQ</title>
+  <!-- favicon link -->
+  <link rel="icon" href="images/favicon32.png">
+  <!-- css links -->
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="stylesheet" type="text/css" href="css/media.css">
+</head>
+<body>
+    <div class="container">
+    <!-- ex1 -->
+      <h2 class="text-danger">1. click the button show the text</h2>
+      <button type="button" class="btn btn-dark" onclick="showText()">Show text</button>
+      <h3 id="s_text"></h3>
+      <hr>
+
+    <!-- ex2 -->
+      <h2 class="text-danger">2.click the button show the date</h2>
+      <button onclick="showDate()" class="btn btn-dark" type="button">Show date</button>
+      <h3 id="sdate">Date</h3>
+      <hr>
+
+    <!-- ex3 -->
+        <h2 class="text-danger">3.Click the button to turn on/off the bulb</h2>
+        <button onclick="bulbOn()" class="btn btn-dark">BulbOn</button>
+
+        <button onclick="bulbOff()" class="btn btn-dark">BulbOff</button>
+        <img id="img" src="images/off.gif" alt="bulb">
+        <hr>
+
+      <!-- ex4 -->
+     <h2 class="text-danger">4. JavaScript can show hidden HTML elements.</h2>
+    <button onclick="showContent()" class="btn btn-dark" type="Button">Show</button>
+    <button onclick="hideContent()" class="btn btn-dark" type="Button">Hide</button>
+    <h3 id="con">Hide or show me Now..</h3>
+    <hr>
+    
+
+
+      <!-- ex5 -->
+
+     <h2 class="text-danger">5.What Can JavaScript Do?</h2>
+
+     <p id="demo">JavaScript can hide HTML elements.</p>
+
+     <button type="button" onclick="demo()">Click Me!</button>
+     <hr>
+
+      <!-- ex6 -->
+
+<h2 class="text-danger">6.JavaScript in Body</h2>
+
+<p id="demo2"></p>
+<hr>
+
+      <!-- ex7 -->
+
+<h2 class="text-danger">7.My First Web Page</h2>
+<p>My First Paragraph.</p>
+
+<p id="s_num"></p>
+<hr>
+
+ <!-- ex8 -->
+
+   <h2 class="text-danger">8.Padded text</h2>
+      <p>
+        let padText1 = '5'; <br>
+        let padText2 = '0';
+      </p>
+      <button class="btn btn-dark" onclick="getPaddedText()">click to get Padded Text</button>
+      <p id="get_Padded_Text"></p>
+      <hr>
+
+      <!-- ex9 -->
+
+       <h2 class="text-danger">9.Replace text</h2>
+      <p>
+        let replaceText = "Please visit Microsoft and Microsoft!";
+      </p>
+      <button class="btn btn-dark" onclick="getReplacedText()">click to get Replaced Text</button>
+      <p id="get_Replaced_Text"></p>
+      <hr>
+
+      <!-- ex10 -->
+
+  <h2>10.convert lower case</h2>
+      <p>
+        let convertLowerText = "LOREM IPSUM DOLOR SIT AMET CONSECTETUR ADIPISICING ELIT. NESCIUNT, DUCIMUS";
+      </p>
+      <button class="btn btn-dark" onmouseover="convertLowerCase1()">on mouse over to convert to Lower Case</button>
+      <p id="convert_LowerCase1"></p>
+
+
+
+
+
+    </div>
+    
+  
+
+      <!-- font awesome link -->
+      <script src="https://kit.fontawesome.com/daf98d2ef3.js" crossorigin="anonymous"></script>
+      <!-- script links -->
+      <script src="js/bootstrap.bundle.min.js"></script>
+      <script src="js/script.js"></script>
+    </body>
+    </html>

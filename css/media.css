@@ -1,0 +1,802 @@
+/* Extra small devices (portrait phones, less than 576px)*/ 
+@media (max-width: 575.98px) {
+/*header section*/
+.menu ul li a {
+    margin: 3px 0 !important;
+
+}
+.logo-img img {
+    margin-left: 0 !important;
+}
+.logo1 {
+    font-size: 20px;
+
+}
+/*banner start*/
+.banner {
+    padding: 80px 0 0;
+    text-align: center;
+}
+.b-text h1 {
+    font-size: 27px;
+}
+.b-text p {
+    padding: 0 0 0 0;
+    margin: 10px 0 25px !important;
+    line-height: 26px;
+}
+.btn-learn {
+	padding: 5px 17px 5px 17px;
+    margin-bottom: 50px;
+}
+
+/*banner end*/
+/*welcome start*/
+.c-hedding h2 {
+    margin-bottom: 25px;
+    font-size: 25px;
+}
+.shape {
+    margin-bottom: 15px !important;
+    margin-top: 0 !important;
+    height: 22px;
+}
+.w-text p {
+    line-height: 24px;
+}
+/*branding start*/
+.b-single {
+    margin-top: 65px;
+}
+.icon1 {
+    left: 112px;
+    font-size: 40px;
+    width: 65px;
+    top: -26px;
+}
+.b-single h2 {
+    margin: 50px 0 15px;
+}
+.b-single p {
+    line-height: 25px;
+    margin: 10px 0 20px;
+    padding: 0 0 0;
+}
+/*about start*/
+.about-img {
+    padding: 0 0;
+}
+.about-text {
+    text-align: center;
+    margin-top: 35px;
+}
+.a-para {
+    line-height: 24px;
+    margin: 15px 0 15px !important;
+}
+.about-text h1 {
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+.about-btn {
+    margin-top: 15px;
+}
+.about {
+    padding: 60px 0 80px;
+}
+.about-btn {
+    padding: 10px 23px 10px 23px;
+
+}
+/*recent work*/
+.r-single {
+    margin-top: 40px;
+}
+.menu-w li {
+    padding: 0 0;
+}
+.row {
+    --bs-gutter-x: 0;
+    --bs-gutter-y: 0;
+}
+
+.nav {
+    --bs-nav-link-padding-x: 10px;
+    --bs-nav-link-padding-y: 0;
+}
+/*chose-nipro start*/
+.c-single {
+    text-align: center;
+}
+.chose-nipro {
+    padding-bottom: 0;
+}
+.r-single {
+    margin-top: 20px;
+}
+.c-img img {
+    width: 35px;
+    height: 36px;
+}
+.c-single p {
+    padding-top: 22px;
+    padding-bottom: 22px;
+}
+.c-img {
+    text-align: center;
+}
+.c-img h2 {
+    font-size: 17px;
+    font-weight: 600;
+
+}
+/*work start*/
+.work {
+    padding: 0 0 80px;
+}
+.sin-img img {
+    padding: 0 0;
+}
+.work-single h2 {
+    margin: 0 0;
+    padding-top: 10px;
+}
+.work-single p {
+    margin: 0 0;
+    padding-top: 10px;
+}
+.sin-img img {
+    margin-top: 30px;
+}
+/*best pricing*/
+.best-single {
+    margin-top: 5px;
+    margin-bottom: 35px;
+}
+.span2 {
+    margin-top: 10px;
+    font-size: 27px;
+}
+.list-inline-item {
+    margin: 3px 0;
+}
+/*team start*/
+.best {
+    padding: 0 0 0px;
+}
+.team {
+    text-align: center;
+    padding: 15px 0;
+}
+.n-btn {
+    padding: 6px 25px;
+    margin-top: 15x;
+}
+/* OWner start */
+.owner {
+  padding-top: 60px;
+}
+.c_single {
+    text-align: center;
+    padding: 20px 5px;
+    line-height: 28px;
+}
+
+.owner_about_img {
+    padding: 0 50px;
+}
+
+.quotation-mark {
+    top: 9px;
+    left: 62px;
+}
+
+.o_h3 {
+    margin: 10px 0 5px;
+    font-size: 17px;
+}
+
+.o_p1 {
+  font-size: 16px;
+}
+
+.o_h4 {
+  margin: 0 0 7px;
+  font-size: 17px;
+}
+
+.o_p2 {
+    margin-bottom: 5px;
+}
+
+.carousel_button {
+  text-align: center;
+  margin-top: 8px;
+  padding: 8px 2px;
+  writing-mode: horizontal-tb;
+}
+
+.btn_prev {
+    margin: 0 40px 0 0;
+}
+
+.btn_next {
+    margin: 0 0 0 40px;
+}
+.w_social ul {
+ bottom: 130px;
+}     
+
+.w_social ul li {
+    padding: 5px 8px;
+}
+.w_social ul a i {
+    font-size: 24px;
+}
+}
+
+
+
+/* Small devices (landscape phones, 576px and up)*/ 
+@media (min-width: 375px) and (max-width: 424.98px) {
+
+.icon1 {
+    left: 139px;
+}
+}
+/* Small devices (landscape phones, 576px and up)*/ 
+@media (min-width: 425px) and (max-width: 575.98px) {
+
+
+.icon1 {
+    left: 162px; 
+}
+}
+
+
+/* Small devices (landscape phones, 576px and up)*/ 
+@media (min-width: 576px) and (max-width: 767.98px) {
+.menu ul li a {
+    margin: 3px 0 !important;
+
+}
+.logo-img img {
+    margin-left: 0 !important;
+}
+.logo1 {
+    font-size: 23px;
+
+}
+/*banner start*/
+
+.banner {
+    padding: 130px 0 0;
+    text-align: center;
+}
+.b-text h1 {
+    font-size: 40px;
+}
+.b-text p {
+    padding: 0 30px 0 30px;
+    margin: 15px 0 35px !important;
+    line-height: 27px;
+}
+.btn-learn {
+	padding: 6px 23px 6px 23px;
+    margin-bottom: 80px;
+}
+
+/*banner end*/
+/*welcome start*/
+
+.c-hedding h2 {
+    margin-bottom: 25px;
+    font-size: 25px;
+}
+.shape {
+   margin-bottom: 20px !important;
+   margin-top: 0 !important;
+   height: 35px;
+}
+.w-text p {
+    line-height: 24px;
+}
+/*branding start*/
+.b-single {
+    margin-top: 80px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.icon1 {
+    left: 170px;
+    font-size: 40px;
+    width: 65px;
+    top: -26px;
+}
+.b-single h2 {
+    margin: 50px 0 15px;
+}
+.b-single p {
+    line-height: 25px;
+    margin: 15px 0 25px;
+}
+/*about start*/
+.about-img {
+    padding: 0 55px;
+}
+.about-text {
+    text-align: center;
+    margin-top: 35px;
+}
+.a-para {
+    line-height: 24px;
+    margin: 15px 0 15px !important;
+}
+.about-text h1 {
+    margin-bottom: 10px;
+    font-size: 27px;
+}
+.about-btn {
+    margin-top: 25px;
+}
+.about {
+    padding: 80px 0 100px;
+}
+.about-btn {
+    padding: 10px 23px 10px 23px;
+
+}
+/*recent work*/
+.recent-work{
+    padding-left: 30px;
+}
+
+.r-single {
+    margin-top: 40px;
+}
+.menu-w li {
+    padding: 0 0;
+}
+
+.nav {
+    --bs-nav-link-padding-x: 10px;
+    --bs-nav-link-padding-y: 0;
+}
+/*chose-nipro start*/
+.r-single {
+    margin-top: 20px;
+}
+.c-img img {
+    width: 35px;
+    height: 36px;
+}
+.c-single p {
+    padding-top: 22px;
+    padding-bottom: 22px;
+}
+/*work start*/
+.work {
+    padding: 0 0 80px;
+}
+.sin-img img {
+    padding: 0 80px;
+}
+.work-single h2 {
+    margin: 0 80px;
+}
+.work-single p {
+    margin: 0 80px;
+}
+.sin-img img {
+    margin-top: 30px;
+}
+/*best pricing*/
+.best-single {
+    margin-top: 5px;
+    margin-bottom: 35px;
+}
+.span2 {
+    margin-top: 10px;
+    font-size: 27px;
+}
+.list-inline-item {
+    margin: 3px 0;
+}
+/*team start*/
+.best {
+    padding: 0 0 0px;
+}
+.team {
+    text-align: center;
+    padding: 15px 0;
+}
+.n-btn {
+    padding: 6px 25px;
+    margin-top: 15x;
+}
+
+/* OWner start */
+.owner {
+   padding-top: 60px;
+}
+
+.c_single {
+   text-align: center;
+   padding: 25px 30px 25px 25px;
+   line-height: 28px;
+}
+
+.owner_about_img {
+   padding: 0 135px;
+}
+
+.quotation-mark {
+   top: 9px;
+   left: 150px;
+}
+
+.o_h3 {
+   margin: 15px 0 5px;
+   font-size: 17px;
+}
+
+.o_p1 {
+   font-size: 17px;
+}
+
+.o_h4 {
+   margin: 5px 0 8px;
+   font-size: 17px;
+}
+
+.o_p2 {
+   margin-bottom: 7px;
+}
+
+.carousel_button {
+   text-align: center;
+   margin-top: 10px;
+   padding: 8px 2px;
+   writing-mode: horizontal-tb;
+}
+
+.btn_prev {
+   margin: 0 40px 0 0;
+}
+
+.btn_next {
+   margin: 0 0 0 40px;
+}
+.w_social ul {
+    bottom: 135px;
+}
+.w_social ul li {
+    padding: 5px 8px;
+}
+.w_social ul a i {
+    font-size: 24px;
+}
+
+
+}
+
+/* Medium devices (tablets, 768px and up)*/ 
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header section*/
+.menu ul li a {
+    margin: 5px 0 !important;
+
+}
+.logo-img img {
+    margin-left: 0 !important;
+}
+.logo1 {
+    font-size: 26px;
+
+}
+/*banner start*/
+.banner {
+    padding: 140px 0 0;
+    text-align: center;
+}
+.b-text h1 {
+    font-size: 50px;
+}
+.b-text p {
+    padding: 0 30px 0 30px;
+    margin: 20px 0 45px !important;
+    line-height: 28px;
+}
+.btn-learn {
+	padding: 8px 25px 8px 25px;
+    margin-bottom: 100px;
+}
+/*welcome start*/
+.c-hedding h2 {
+    margin-bottom: 20px;
+}
+.shape {
+    margin-bottom: 20px !important;
+    height: 40px;
+}
+/*branding start*/
+.b-single {
+    margin-top: 80px;
+}
+.icon1 {
+    left: 128px;
+}
+/*about start*/
+.about-img {
+    padding: 0 110px;
+}
+.about-text {
+    margin-top: 30px;
+    text-align: center;
+}
+.about-text {
+    text-align: center;
+    margin-top: 35px;
+}
+.a-para {
+    line-height: 24px;
+    margin: 15px 0 15px !important;
+}
+.about-text h1 {
+    margin-bottom: 10px;
+}
+.about-btn {
+    margin-top: 25px;
+}
+.about {
+    padding: 80px 0 100px;
+}
+.about-btn {
+    padding: 12px 27px 12px 27px;
+
+}
+/*recent work*/
+.recent-work {
+    padding-left: 25px;
+}
+.r-single {
+    margin-top: 40px;
+}
+.menu-w li {
+    padding: 0 0;
+}
+.c-single p {
+    padding-top: 26px;
+    padding-bottom: 25px;
+
+}
+/*chose-nipro start*/
+.c-img img {
+    width: 43px;
+    height: 44px;
+}
+/*work start*/
+.work {
+    padding: 0 0 60px;
+}
+.work-single{
+    margin-top: 20px;
+}
+/*team start*/
+.best {
+    padding: 0 0 0px;
+}
+.team {
+    text-align: center;
+    padding: 15px 0;
+}
+.n-btn {
+    padding: 8px 35px;
+    margin-top: 15px;
+}
+  /* OWner start */
+   .owner {
+     padding-top: 80px;
+   }
+
+   .c_single {
+     text-align: center;
+     padding: 30px 40px 30px 40px;
+   }
+
+   .owner_about_img {
+     padding: 0 200px;
+   }
+
+   .quotation-mark {
+     top: 12px;
+     left: 212px;
+   }
+
+   .o_h3 {
+     margin: 25px 0 8px;
+     font-size: 17px;
+   }
+
+   .o_p1 {
+     font-size: 17px;
+   }
+
+   .o_h4 {
+     margin: 5px 0 10px;
+     font-size: 17px;
+   }
+
+   .o_p2 {
+     margin-bottom: 13px;
+   }
+
+   .carousel_button {
+     text-align: center;
+     margin-top: 15px;
+     padding: 13px 10px;
+     writing-mode: horizontal-tb;
+   }
+
+   .btn_prev {
+     margin: 0 60px 0 0;
+   }
+
+   .btn_next {
+     margin: 0 0 0 60px;
+   }
+   .w_social ul {
+    bottom: 150px;
+    left: 0;
+}
+
+}
+
+
+
+/* Large devices (desktops, 992px and up)*/ 
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*	header section*/
+    header {
+        padding: 15px 0;
+    }
+
+    .menu ul li a {
+        margin: 0 5px !important;
+    }
+    .logo-img img {
+        margin-left: 10px !important;
+    }
+/*header end*/
+/*banner start*/
+.banner {
+    padding: 160px 0 0;
+}
+.b-text h1 {
+    font-size: 50px;
+}
+.b-text p {
+    padding: 0 150px 0 0;
+    margin: 25px 0 50px !important;
+}
+.btn-learn {
+	padding: 10px 27px 10px 27px;
+    margin-bottom: 120px;
+}
+
+/*banner end*/
+/*welcome start*/
+.c-hedding h2 {
+    margin-bottom: 30px;
+}
+.shape {
+    margin-bottom: 25px !important;
+}
+/*branding start*/
+.b-single {
+    margin-top: 85px;
+}
+.icon1 {
+    left: 72px;
+}
+/*about start*/
+.about {
+    padding: 85px 0 110px;
+}
+.a-para {
+    line-height: 24px;
+    margin: 15px 0 15px !important;
+}
+.about-btn {
+    margin-top: 10px;
+}
+.about-text h1 {
+    margin-bottom: 0;
+}
+.about-btn {
+    padding: 12px 27px 12px 27px;
+
+}
+/*recent work start*/
+.r-single {
+    margin-top: 20px;
+}
+/*chose-nipro start*/
+.c-img img {
+    width: 48px;
+    height: 44px;
+}
+/*template start*/
+.template {
+    padding: 15px 0;
+}
+.n-btn {
+    font-size: 16px !important;
+    padding: 8px 40px;
+
+}
+
+
+
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/*	header section*/
+header {
+    padding: 15px 0;
+}
+
+.menu ul li a {
+    margin: 0 5px !important;
+}
+.logo-img img {
+    margin-left: 10px !important;
+}
+/*banner start*/
+.banner {
+    padding: 180px 0 0;
+}
+.b-text h1 {
+    font-size: 55px;
+}
+.b-text p {
+    padding: 0 160px 0 0;
+    margin: 30px 0 55px !important;
+}
+.btn-learn {
+	padding: 11px 28px 11px 28px;
+    margin-bottom: 150px;
+}
+
+/*banner end*/
+/*welcome start*/
+.c-hedding h2 {
+    margin-bottom: 40px;
+}
+.shape {
+    margin-bottom: 30px !important;
+}
+/*branding start*/
+.b-single {
+    margin-top: 90px;
+}
+.icon1 {
+    left: 94px;
+}
+/*about start*/
+.a-para {
+    line-height: 24px;
+    margin: 30px 0 24px !important;
+}
+.about-btn {
+    margin-top: 15px;
+}
+.about-text h1 {
+    margin-bottom: 10px;
+}
+
+}
+
+/* Extra extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) { ... }

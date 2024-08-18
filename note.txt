@@ -1,0 +1,71 @@
+font-family: "Lato", sans-serif;
+
+
+
+
+
+
+agency link
+https://mdalamin006.github.io/nipro-agency/
+
+
+
+Nipro-agency
+https://rokibulhasan001.github.io/nipro/
+
+
+/* Small devices (landscape phones, 576px and up)*/ 
+@media (min-width: 375px) and (max-width: 424.98px) {
+    /*branding start*/
+.icon1 {
+    left: 139px;
+ 
+}
+
+
+}
+/* Small devices (landscape phones, 576px and up)*/ 
+@media (min-width: 425px) and (max-width: 575.98px) {
+    /*branding start*/
+
+.icon1 {
+    left: 162px;
+  
+}
+
+
+
+
+
+
+
+   <div class="col-lg-3">
+                        <div class="vai-img">
+                          <img class="img-fluid" src="images/test.png" alt="nipro">
+                          
+                        </div>
+                      </div>
+                      <div class="col-lg-7">
+                        <div class="caro-text">
+                          <h2>Al-Rayhan</h2>
+                          <p>Co-Founder & COO</p>
+                          <h3>DeviserWeb</h3>
+                          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five</p>
+                          <p>
+                              Lcenturies, but also the leap into electronic typesetting, remaining essentially  like Aldus PageMaker including versions of Lorem Ipsum.
+                          </p>
+                        </div>
+                      </div>
+                      <div class="col-lg-2">
+                           <!-- Carousel button -->
+                            <div class="b_c_btn">
+                              <button type="button" aria-hidden="true" data-bs-target="#carouselslider"
+                              data-bs-slide="prev" class="slider-btn opacity-50">PREV</button>
+                              <span class="opacity-50 c_line">|</span>
+                              <span class="opacity-100 c_line">|</span>
+                              <span class="opacity-50 c_line">|</span>
+                              <button type="button" aria-hidden="true" data-bs-target="#carouselslider"
+                              data-bs-slide="next" class="slider-btn">NEXT</button>
+                              <!-- Carousel button -->
+                            </div>         
+                      </div>
